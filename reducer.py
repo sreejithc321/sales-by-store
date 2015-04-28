@@ -24,4 +24,7 @@ for line in sys.stdin:
 
 if prev_store != None:
     print prev_store, "\t", tot_sales
+    
+    
+    
 
