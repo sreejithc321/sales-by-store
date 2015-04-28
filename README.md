@@ -1,4 +1,4 @@
-## Sales by store Calculation on Hadoop (Cloudera CDH)
+## Sales by store calculation on Hadoop (Cloudera CDH)
 
 - Sample input data format
 
@@ -8,6 +8,6 @@
     - 2012-01-01	09:00	Pittsburgh	Pet Supplies	493.51	Discover
 
 
-- mapper.py : Read store and sales data from input file
+- mapper.py : read store and sales data from input file
 
-- reducer.py : Calculate sales per store
+- reducer.py : calculate sales per store
