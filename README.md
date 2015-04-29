@@ -1,6 +1,6 @@
 ## Sales by store calculation on Hadoop (Cloudera CDH)
 
-#### From MOOC - Intro to Hadoop and MapReduce : Udacity
+#### Project - Intro to Hadoop and MapReduce : Udacity
 
 - Sample input data format
 
